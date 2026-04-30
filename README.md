@@ -28,7 +28,7 @@
 ### Setup
 
 ```bash
-git clone https://github.com/your-org/lead-engine.git
+git clone (https://github.com/prathameshbc/lead_engine_beta.git
 cd lead-engine
 python setup.py          # creates venv, installs deps, checks Ollama
 ```

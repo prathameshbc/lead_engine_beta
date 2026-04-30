@@ -24,6 +24,7 @@
 | Python | 3.10+ |
 | [Ollama](https://ollama.com/download) | Any recent |
 | A pulled model | `ollama pull qwen2.5` |
+| local searxng instance| (setup required edit searxng url with local url)
 
 ### Setup
 
